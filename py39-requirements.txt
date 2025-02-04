@@ -1,0 +1,12 @@
+requests
+pyautogui
+opencv-python
+opencv-contrib-python
+numpy
+torch
+torchaudio
+torchvision
+ultralytics==8.3.65
+ultralytics-thop==2.0.14
+pycryptodome
+rdp

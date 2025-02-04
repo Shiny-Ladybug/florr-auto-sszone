@@ -1,0 +1,48 @@
+{
+    "ShowLogger": false,
+    "Builds": 6,
+    "Farming": {
+        "SafeDistanceK": 0.2,
+        "Weights": {
+            "Legendary": 0.6,
+            "Mythic": 3.7,
+            "Ultra": 1.8
+        }
+    },
+    "MoveType": "mouse",
+    "Positions": {
+        "Areas": {
+            "checkpoint-1": [
+                [
+                    108,
+                    2
+                ],
+                [
+                    170,
+                    36
+                ]
+            ],
+            "sandstorm": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    54,
+                    46
+                ]
+            ]
+        },
+        "Destination": "sandstorm",
+        "Locations": {
+            "checkpoint-1": [
+                152,
+                18
+            ],
+            "sandstorm": [
+                25,
+                25
+            ]
+        }
+    }
+}
