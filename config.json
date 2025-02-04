@@ -9,6 +9,7 @@
             "Ultra": 1.8
         }
     },
+    "nameOffsetX": 0,
     "MoveType": "mouse",
     "Positions": {
         "Areas": {

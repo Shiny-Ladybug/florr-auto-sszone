@@ -10,3 +10,5 @@ ultralytics==8.3.65
 ultralytics-thop==2.0.14
 pycryptodome
 rdp
+lap
+rich
