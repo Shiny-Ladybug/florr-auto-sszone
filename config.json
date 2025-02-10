@@ -9,37 +9,75 @@
             "Ultra": 1.8
         }
     },
-    "nameOffsetX": 0,
+    "AttackMinimumDist": 250,
     "MoveType": "mouse",
+    "heal": {
+        "enabled": true,
+        "threshold": 60,
+        "slots": [
+            3,
+            7
+        ]
+    },
+    "fang": {
+        "enabled": false,
+        "slot": 9
+    },
+    "powder": {
+        "enabled": true,
+        "slot": 5
+    },
     "Positions": {
         "Areas": {
-            "checkpoint-1": [
-                [
-                    108,
-                    2
-                ],
-                [
-                    170,
-                    36
-                ]
-            ],
             "sandstorm": [
                 [
-                    0,
-                    0
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        54,
+                        46
+                    ]
                 ],
                 [
-                    54,
-                    46
+                    [
+                        0,
+                        46
+                    ],
+                    [
+                        32,
+                        66
+                    ]
+                ]
+            ],
+            "spawnpoint": [
+                [
+                    [
+                        132,
+                        175
+                    ],
+                    [
+                        182,
+                        246
+                    ]
+                ]
+            ],
+            "ssz_checkpoint": [
+                [
+                    [
+                        75,
+                        3
+                    ],
+                    [
+                        117,
+                        50
+                    ]
                 ]
             ]
         },
         "Destination": "sandstorm",
         "Locations": {
-            "checkpoint-1": [
-                152,
-                18
-            ],
             "sandstorm": [
                 25,
                 25
