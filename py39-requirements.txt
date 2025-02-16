@@ -3,6 +3,13 @@ pyautogui
 opencv-python
 opencv-contrib-python
 numpy
+paddlepaddle==2.5.0
+paddlehub==2.4.0
+paddlenlp==2.6.1
+scikit-learn==1.5.1
+numpy==1.24.3
+jieba==0.42.1
+zhipuai
 torch
 torchaudio
 torchvision
