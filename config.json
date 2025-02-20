@@ -30,6 +30,12 @@
         "enabled": true,
         "slot": 5
     },
+    "Chat": {
+        "whitelist_sender": [
+            "M28"
+        ],
+        "trigger": "M28"
+    },
     "Positions": {
         "Areas": {
             "sandstorm": [
